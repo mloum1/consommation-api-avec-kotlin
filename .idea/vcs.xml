@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Geek-screen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../TER_Gsociety" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../angular-avance" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../authentication_webservice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ghDistant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../p_backend/src/main/java/com/oum/p_backend/websocket/yolov5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../poke-angular" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../poulailler_dashboard" vcs="Git" />
+  </component>
+</project>
